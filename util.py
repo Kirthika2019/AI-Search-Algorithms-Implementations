@@ -68,7 +68,6 @@ def generate_graph():
     add_neighbours(61, [53])
     add_neighbours(62, [54, 63])
     add_neighbours(63, [55, 62])
-
     return graph_neighbours
 
 
